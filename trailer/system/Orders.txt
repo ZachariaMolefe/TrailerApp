@@ -1,0 +1,25 @@
+Numbers                 Order Number	Price		Collection Date		Return Date		Trailer(s)
+
+0810082004		CT102		R465.0		2020-3-11		2020-3-28		1 Ton Trailer Mesh & 3/4 Ton Trailer
+0810082004		AD102		R1080.0		2020-3-10		2020-3-27		1 Ton Trailer Mesh & 2 Ton Trailer Livestock & 3/4 Ton Trailer & Horse Trailer & Large Superbike Trailer
+0810082004		CT102		R415.0		2020-3-10		2020-3-12		1 Ton Trailer Mesh & 3/4 Ton Trailer
+0810082004		CT102		R215.0		2020-3-13		2020-3-15		2 Ton Trailer Mesh & N/A
+0810082004		CT1		R215.0		2020-3-11		2020-3-12		2 Ton Trailer Livestock & N/A
+0810082004		CT1		R435.0		2020-3-10		2020-3-15		1 Ton Trailer Mesh & 3/4 Ton Trailer
+0608329038		CT02		R465.0		2020-3-10		2020-3-30		2 Ton Trailer Livestock & Closed Trailer
+0608329038		CT02		R415.0		2020-3-13		2020-3-13		2 Ton Trailer Livestock & 1 Ton Car Trailer
+0795871771		CT1		R435.0		2020-3-18		2020-3-21		Closed Trailer & 2 Ton Trailer Livestock
+0810082004		CT1		R235.0		2020-3-22		2020-3-27		2 Ton Trailer Mesh & N/A
+0710082202		CT1		R435.0		2020-3-22		2020-3-28		1 Ton Car Trailer & 3/4 Ton Trailer
+0000000000		AD102		R1050.0		2020-3-22		2020-3-30		1 Ton Trailer Mesh & 2 Ton Trailer Livestock & 3/4 Ton Trailer & Closed Trailer & Horse Trailer
+1234567890		CT1		R435.0		2020-3-27		2020-3-30		2 Ton Trailer Mesh & 2 Ton Trailer Mesh
+0600608765		AD102		R1050.0		2020-3-27		2020-3-30		2 Ton Trailer Mesh & 2 Ton Trailer Livestock & 2 Ton Trailer Mesh & Large Superbike Trailer & Large Twotone Trailer
+0810082004		CT1		R435.0		2020-5-5		2020-5-9		2 Ton Trailer Mesh & Closed Trailer
+0795871771		CT1		R435.0		2020-5-5		2020-5-9		2 Ton Trailer Livestock & Horse Trailer
+0608329321		CT1		R435.0		2020-5-6		2020-5-11		2 Ton Trailer Livestock & 2 Ton Trailer Mesh
+1234567890		CT1		R435.0		2020-5-5		2020-5-8		Horse Trailer & Large Twotone Trailer
+0726666232		CT1		R435.0		2020-5-5		2020-5-10		3/4 Ton Trailer & Horse Trailer
+0879546213		CT1		R435.0		2020-5-5		2020-5-11		2 Ton Trailer Livestock & Horse Trailer
+0795951325		AD102		R630.0		2020-5-5		2020-5-5		2 Ton Trailer Mesh & 1 Ton Car Trailer & Horse Trailer
+0810082004		CT1		R435.0		2020-5-8		2020-5-14		Large Superbike Trailer & 3/4 Ton Trailer
+0795871771		AD102		R1080.0		2020-5-12		2020-5-30		1 Ton Trailer Mesh & 2 Ton Trailer Mesh & 3/4 Ton Trailer & Luggage Trailer & Tipper Trailer
